@@ -1,5 +1,7 @@
+First Year Bachelor Project
+
+
 # CORPORATE ESPIONAGE: THE GAME
-## BY LILLY ZWIKKER
 
 You are an Important Aerospace Company engineer and on instruction of the executives you have infiltrated the AIRBUS headquarters to steal their
  wing box designs for your new hypersonic passenger jet. You have just found the technical drawings and now have to escape the never ending maze of
