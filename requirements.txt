@@ -1,0 +1,6 @@
+pygame
+numpy
+timeit
+PyOpenGL
+PyOpenGL-accelerate
+pillow
